@@ -2,6 +2,8 @@
 
 A full-stack team task management application built with **Next.js 14**, **MongoDB**, and **Tailwind CSS**. Features JWT authentication, role-based access control (Admin/Member), project management, and task tracking.
 
+## [Live Demo](https://team-task-manager-production-6e86.up.railway.app/)
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6-green?logo=mongodb)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-blue?logo=tailwindcss)
